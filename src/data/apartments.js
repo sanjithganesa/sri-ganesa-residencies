@@ -60,7 +60,7 @@ const apartments = [
     location: "Bodhupatty (Namakkal)",
 
     locationLink:
-      "https://maps.app.goo.gl/CKH8tKsPx75cqpmP9",
+      "https://maps.app.goo.gl/ztcx5JMmgy5FpeKG8",
 
     price: "Starting from ₹9999/month",
 
