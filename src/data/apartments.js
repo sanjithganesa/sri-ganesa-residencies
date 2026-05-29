@@ -36,18 +36,18 @@ const apartments = [
     bathrooms: 1,
 
     gallery: [
-      "/assets/SLR/img_1.jpeg",
+  "/assets/SLR/img_1.jpeg",
 
-      "/assets/SLR/img_2.jpeg",
+  "/assets/SLR/img_2.jpeg",
 
-      "/assets/SLR/img_3.jpeg",
+  "/assets/SLR/img_3.jpeg",
 
-      "/assets/SLR/img_4.jpeg",
+  "/assets/SLR/img_4.jpeg",
 
-      "/assets/SLR/img_5.jpeg",
+  "/assets/SLR/img_5.jpeg",
 
-      "/assets/SLR/img_6.jpeg",
-    ],
+  "/assets/SLR/img_6.jpeg",
+],
   },
 
   {
