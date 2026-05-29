@@ -102,16 +102,16 @@ const apartments = [
   {
     id: 3,
 
-    slug: "sri-ganesa-premium-towers",
+    slug: "sri-ganesa-arcade",
 
     comingSoon: true,
 
-    title: "Sri Ganesa Premium Towers",
+    title: "Sri Ganesa Arcade",
 
-    location: "Upcoming Project - Salem",
+    location: "Upcoming Project - Namakkal",
 
     locationLink:
-      "https://maps.google.com/?q=Salem+Tamil+Nadu",
+      "https://maps.app.goo.gl/oroh6wC5yu9a6LH76",
 
     price: "Launching Soon",
 
