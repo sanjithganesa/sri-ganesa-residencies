@@ -1,5 +1,5 @@
 const contactInfo = {
-  phone: "+91 94872 53134",
+  phone: "+91 94872 53134/ +91 86100 03646",
 
   email: "miltek1976@yahoo.com",
 

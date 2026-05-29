@@ -11,7 +11,7 @@ const apartments = [
     locationLink:
       "https://maps.app.goo.gl/EE7H3N8M3VxezLYP8",
 
-    price: "Starting from ₹4999/month",
+    price: "Starting from ₹6499/month",
 
     image:
       "/assets/SLR/front_apartment.jpeg",
@@ -62,7 +62,7 @@ const apartments = [
     locationLink:
       "https://maps.app.goo.gl/CKH8tKsPx75cqpmP9",
 
-    price: "Starting from ₹7999/month",
+    price: "Starting from ₹9999/month",
 
     image:
       "/assets/SGR-SPMR/Blur_front_view.jpeg",
