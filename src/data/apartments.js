@@ -53,9 +53,9 @@ const apartments = [
   {
     id: 2,
 
-    slug: "sga-spma-residencies",
+    slug: "sga-spma-apartments",
 
-    title: "SGA SPMA Residencies",
+    title: "SGA SPMA Apartments",
 
     location: "Bodhupatty (Namakkal)",
 
