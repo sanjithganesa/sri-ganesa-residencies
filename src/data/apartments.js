@@ -38,7 +38,6 @@ const apartments = [
     gallery: [
   "/assets/SLR/img_1.jpeg",
 
-  "/assets/SLR/img_2.jpeg",
 
   "/assets/SLR/img_3.jpeg",
 
@@ -89,7 +88,6 @@ const apartments = [
     gallery: [
       "/assets/SGR/front_view.jpeg",
 
-  "/assets/SLR/img_2.jpeg",
 
   "/assets/SLR/img_3.jpeg",
 
@@ -147,6 +145,8 @@ const apartments = [
       "/assets/SGR-SPMR/img_4.jpeg",
 
       "/assets/SGR-SPMR/img_5.jpeg",
+
+      "/assets/SGR-SPMR/img_6.jpeg",
     ],
   },
 
