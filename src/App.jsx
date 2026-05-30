@@ -14,6 +14,8 @@ import useLenis from "./hooks/useLenis";
 
 import Home from "./pages/Home";
 import ApartmentDetails from "./pages/ApartmentDetails";
+import Shops from "./pages/Shops";
+import ShopDetails from "./pages/ShopDetails";
 
 import CustomCursor from "./components/ui/CustomCursor";
 
@@ -45,19 +47,27 @@ function AnimatedRoutes() {
 
         <Routes location={location}>
 
-          {/* Home Page */}
-          <Route
-            path="/"
-            element={<Home />}
-          />
+  <Route
+    path="/"
+    element={<Home />}
+  />
 
-          {/* Apartment Details */}
-          <Route
-            path="/apartments/:slug"
-            element={<ApartmentDetails />}
-          />
+  <Route
+    path="/apartments/:slug"
+    element={<ApartmentDetails />}
+  />
 
-        </Routes>
+  <Route
+    path="/shops"
+    element={<Shops />}
+  />
+
+  <Route
+    path="/shops/:slug"
+    element={<ShopDetails />}
+  />
+
+</Routes>
 
       </motion.div>
 

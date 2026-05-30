@@ -128,7 +128,7 @@ function Navbar() {
             </span>
 
             <span className="ml-2 text-white">
-              Residencies
+              Residencies and Apartements
             </span>
 
             {/* Underline */}

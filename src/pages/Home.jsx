@@ -3,7 +3,8 @@ import HeroSection from "../components/layout/HeroSection";
 import ApartmentSection from "../components/apartments/ApartmentSection";
 import AmenitiesSection from "../components/layout/AmenitiesSection";
 import ContactSection from "../components/layout/ContactSection";
-
+import CommercialBanner
+from "../components/shops/CommercialBanner";
 
 function Home() {
   return (
@@ -17,6 +18,8 @@ function Home() {
       <ApartmentSection />
 
       <AmenitiesSection />
+
+      <CommercialBanner />
 
       <ContactSection/>
 

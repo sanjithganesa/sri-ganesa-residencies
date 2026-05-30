@@ -51,6 +51,57 @@ const apartments = [
   },
 
   {
+    id: 1,
+
+    slug: "sri-ganesa-residency",
+
+    title: "Sri Ganesa Residency",
+
+    location: "Nallipalayam (Namakkal)",
+
+    locationLink:
+      "https://maps.app.goo.gl/EE7H3N8M3VxezLYP8",
+
+    price: "Starting from ₹6499/month",
+
+    image:
+      "/assets/SGR/image.jpg",
+
+    description:
+      "Affordable and comfortable residential apartments located in Nallipalayam, offering both 1 BHK and 2 BHK options suitable for families and working professionals.",
+
+    availability: [
+      {
+        type: "1 BHK",
+        sqft: 370,
+        furnished: false,
+      },
+
+      {
+        type: "2 BHK",
+        sqft: 420,
+        furnished: false,
+      },
+    ],
+
+    bathrooms: 1,
+
+    gallery: [
+      "/assets/SGR/front_view.jpeg",
+
+  "/assets/SLR/img_2.jpeg",
+
+  "/assets/SLR/img_3.jpeg",
+
+  "/assets/SLR/img_4.jpeg",
+
+  "/assets/SLR/img_5.jpeg",
+
+  "/assets/SLR/img_6.jpeg",
+],
+  },
+
+  {
     id: 2,
 
     slug: "sga-spma-apartments",
@@ -79,7 +130,7 @@ const apartments = [
 
       {
         type: "Studio Rooms",
-        sqft: 50,
+        sqft: 150,
         furnished: false,
       },
     ],
