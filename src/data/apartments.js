@@ -136,6 +136,8 @@ const apartments = [
     bathrooms: 1,
 
     gallery: [
+      "/assets/SGR-SPMR/front_view.jpeg",
+      
       "/assets/SGR-SPMR/img_1.jpeg",
 
       "/assets/SGR-SPMR/img_2.jpeg",
